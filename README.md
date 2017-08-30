@@ -1,4 +1,5 @@
 # Color Game  
+### For live preview, click [here](https://aleksftw.github.io/Color-Game/)  
 ---
 Vanilla javascript color guessing game application that is centered around the DOM model.   
 - [x] You are provided with a randomly generated RGB color.
